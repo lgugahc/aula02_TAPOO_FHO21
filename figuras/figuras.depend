@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1617573903 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\src\quadrado.cpp
+	"quadrado.hpp"
+
+1617573911 c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\include\quadrado.hpp
+
+1617576963 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\src\triangulo.cpp
+	"triangulo.hpp"
+	<math.h>
+
+1617576663 c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\include\triangulo.hpp
+
+1617573658 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\src\circulo.cpp
+	"circulo.hpp"
+
+1617573639 c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\include\circulo.hpp
+
+1617581382 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\main.cpp
+	<iostream>
+	<stdio.h>
+	"circulo.hpp"
+	"quadrado.hpp"
+	"triangulo.hpp"
+	"retangulo.hpp"
+	"esfera.hpp"
+	"cubo.hpp"
+	"dodecaedro.hpp"
+	"piramide.hpp"
+
+1617581113 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\src\retangulo.cpp
+	"retangulo.hpp"
+
+1617574543 c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\include\retangulo.hpp
+
+1617573614 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\src\esfera.cpp
+	"esfera.hpp"
+
+1617573439 c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\include\esfera.hpp
+
+1617572830 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\src\cubo.cpp
+	"cubo.hpp"
+
+1617572716 c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\include\cubo.hpp
+
+1617575557 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\src\dodecaedro.cpp
+	"dodecaedro.hpp"
+
+1617575515 c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\include\dodecaedro.hpp
+
+1617577900 c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\include\piramide.hpp
+
+1617578211 source:c:\users\carlacristina\desktop\gu\faculdade\11º semestre\tópicos avançados paradigma de orientação de objetos\programação\atividade\figuras\src\piramide.cpp
+	"piramide.hpp"
+	<math.h>
+

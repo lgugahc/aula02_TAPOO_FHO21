@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="figuras" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/figuras" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/figuras" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/circulo.hpp" />
+		<Unit filename="include/cubo.hpp" />
+		<Unit filename="include/dodecaedro.hpp" />
+		<Unit filename="include/esfera.hpp" />
+		<Unit filename="include/piramide.hpp" />
+		<Unit filename="include/quadrado.hpp" />
+		<Unit filename="include/retangulo.hpp" />
+		<Unit filename="include/triangulo.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/circulo.cpp" />
+		<Unit filename="src/cubo.cpp" />
+		<Unit filename="src/dodecaedro.cpp" />
+		<Unit filename="src/esfera.cpp" />
+		<Unit filename="src/piramide.cpp" />
+		<Unit filename="src/quadrado.cpp" />
+		<Unit filename="src/retangulo.cpp" />
+		<Unit filename="src/triangulo.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
